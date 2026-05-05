@@ -71,3 +71,6 @@ def anonymize(df, qi, sensitive, method, k, l, t):
             return temp, level
 
     return None
+
+
+## Algorithm Implementation
