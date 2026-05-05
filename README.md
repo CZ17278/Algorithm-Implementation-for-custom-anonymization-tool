@@ -72,5 +72,10 @@ def anonymize(df, qi, sensitive, method, k, l, t):
 
     return None
 
-
+```
 ## Algorithm Implementation
+Run the application:
+python custom anonymization tool.py
+
+<img width="306" height="338" alt="image" src="https://github.com/user-attachments/assets/8acf602c-18b5-4068-b110-c68ebf47eacd" />
+
