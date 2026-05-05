@@ -73,7 +73,7 @@ def anonymize(df, qi, sensitive, method, k, l, t):
     return None
 
 ```
-## Algorithm Implementation
+## Run
 Run the application:
 python custom anonymization tool.py
 
